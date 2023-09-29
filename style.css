@@ -1,0 +1,72 @@
+h1 {
+  color: darkcyan;
+}
+
+h2 {
+  background-color: aquamarine;
+
+}
+
+#freezerhead {
+  background-color: darkorange;
+}
+
+.pantry_items_section {
+}
+
+.pantry_items {
+  display:flex;
+  
+  
+}
+
+.freezer_items {
+  display: flex; 
+
+}
+  
+.foodpantry { 
+  display: flex;
+  margin-left: 10%;
+  
+}
+
+
+.canned { 
+  color:black;
+  background-color: lightgrey;
+  height: 150px;
+  width: 200px;
+  margin-right: 7px;
+}
+
+.drygoods {
+  background-color:lightslategray;
+  width: 200px; 
+  height: 150px;
+
+}
+
+.veggies {
+  
+  background-color: lightcyan; 
+  width: 200px; height: 150px;
+  margin-right: 7px;
+  
+}
+.snacks {
+ 
+  background-color:lightsteelblue; 
+  height: 150px; width: 200px;
+  
+}
+
+.freezerpic {
+  margin-left: 166%;
+  position: relative; 
+  bottom: 155px;
+  height: 200px;
+
+
+}
+  
